@@ -32,8 +32,8 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
 
 ## 📊 GitHub stats
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmad67889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmad67889&layout=compact&theme=tokyonight&hide_border=true)
+![Muhammad's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhmad67889&theme=tokyonight)
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmad67889&theme=tokyonight)
 
 ## 🐍 Contribution snake
 
