@@ -54,7 +54,3 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadAhmad67889-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAhmad67889)
 
 If you're hiring for a web developer role or need a freelance build, send me an email and tell me what you're trying to ship. I'll reply with what I can do, what it would take, and an honest timeline.
-
----
-
-*Currently studying networking too (CCNA) — because I want to understand the full picture, from the code I write to how it actually travels.*
