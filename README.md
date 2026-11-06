@@ -11,7 +11,8 @@ I'm a recent graduate and web developer in Rawalpindi / Islamabad, Pakistan. I'v
 **[ClientDesk](https://github.com/MuhammadAhmad67889/clientdesk)** — a freelance client and invoice manager.
 
 - Next.js + TypeScript, Prisma + Postgres, with signup/login and per-user data
-- Dashboard, clients, invoices, CSV export, and demo data you can reset
+- Clients, invoices with line items, tax and discount, partial payments, recurring invoices, and invoice PDF export
+- Payments and analytics pages, password change, audit log, and data export
 - Live demo: https://clientdesk-muhammadahmad67889s-projects.vercel.app/
 
 I built it because I kept losing track of freelance work in spreadsheets. It started as a local demo and grew into a deployed app with a real database and authentication — I learned Prisma and auth as I went.
