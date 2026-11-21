@@ -1,32 +1,23 @@
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Muhammad+Ahmad;Web+Developer;Building+real+apps+with+Next.js;Rawalpindi+%2F+Islamabad+%E2%80%A2+Open+to+remote+work)](https://git.io/typing-svg)
-
 
 </div>
 
-
 I'm a recent graduate and web developer in Rawalpindi / Islamabad, Pakistan. I've spent the last two years building real projects — not just following tutorials. I like work I can show running: a live link, tests that pass, and a README that says what is still rough.
-
 
 ## 🚀 What I'm building now
 
-
 **[ClientDesk](https://github.com/MuhammadAhmad67889/clientdesk)** — a freelance client and invoice manager.
-
 
 - Next.js + TypeScript, Prisma + Postgres, with signup/login and per-user data
 - Clients, invoices with line items, tax and discount, partial payments, recurring invoices, and invoice PDF export
 - Payments and analytics pages, password change, audit log, and data export
 - Live demo: https://clientdesk-muhammadahmad67889s-projects.vercel.app/
 
-
 I built it because I kept losing track of freelance work in spreadsheets. It started as a local demo and grew into a deployed app with a real database and authentication — I learned Prisma and auth as I went.
 
-
 ## 🛠️ Tech stack
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,22 +32,16 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 📊 GitHub stats
-
 
 ![Muhammad's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhmad67889&theme=tokyonight)
 ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmad67889&theme=tokyonight)
 
-
 ## 🔥 Contribution streak
-
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=MuhammadAhmad67889&theme=tokyonight&v=20261121)
 
-
 ## 🐍 Contribution snake
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAhmad67889/MuhammadAhmad67889/output/github-contribution-grid-snake-dark.svg">
@@ -64,12 +49,9 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadAhmad67889/MuhammadAhmad67889/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ## 📫 Get in touch
-
 
 [![Email](https://img.shields.io/badge/Email-muhammadahmad.codes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadahmad.codes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadAhmad67889-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadAhmad67889)
 
-
-If you're hiring for a web developer role or need a freelance build, send me an email and t
+If you're hiring for a web developer role or need a freelance build, send me an email and tell me what you're trying to ship. I'll reply with what I can do, what it would take, and an honest timeline.
