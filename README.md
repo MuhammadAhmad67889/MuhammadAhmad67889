@@ -53,7 +53,10 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
 ## 📊 GitHub stats
 
 ![Muhammad's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhmad67889&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAhmad67889&theme=tokyonight)
 ![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmad67889&theme=tokyonight)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAhmad67889&theme=tokyonight)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadAhmad67889&theme=tokyonight&utcOffset=5)
 
 ## 🔥 Contribution streak
 
