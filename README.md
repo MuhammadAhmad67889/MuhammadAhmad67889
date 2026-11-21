@@ -17,6 +17,24 @@ I'm a recent graduate and web developer in Rawalpindi / Islamabad, Pakistan. I'v
 
 I built it because I kept losing track of freelance work in spreadsheets. It started as a local demo and grew into a deployed app with a real database and authentication — I learned Prisma and auth as I went.
 
+**[SyncBoard](https://github.com/MuhammadAhmad67889/syncboard)** — a real-time collaborative whiteboard.
+
+- React + TypeScript, Yjs sync over WebSockets, JWT auth, per-user undo
+- Sticky notes, shapes, connectors, image upload, snapshots, timed voting, present mode
+- Live demo: https://syncboard-chi-sable.vercel.app/
+
+**[Inboxora](https://github.com/MuhammadAhmad67889/inboxora)** — a WhatsApp AI support inbox for small businesses.
+
+- AI drafts replies from the business's own FAQ and cites the entry it used; a person approves every send
+- Shared inbox with search, tags, priorities, internal notes, quick replies, and analytics
+- Live demo: https://inboxora.vercel.app/
+
+**[CareerCraft](https://github.com/MuhammadAhmad67889/careercraft)** — an AI career platform.
+
+- Resume builder, job matching with a transparent score breakdown, ATS analysis, cover letters, application tracker, mock interviews, and roadmaps
+- 148 automated tests; AI features run in a clearly labelled demo mode until a model key is added
+- Live demo: https://careercraft-blue.vercel.app/
+
 ## 🛠️ Tech stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
