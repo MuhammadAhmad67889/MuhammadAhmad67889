@@ -68,8 +68,8 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadAhmad67889/MuhammadAhmad67889/output/github-contribution-grid-snake.svg">
 </picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Premature%20optimization%20is%20the%20root%20of%20all%20evil.&author=Donald%20Knuth)
 
 ## 📫 Get in touch
 
