@@ -50,16 +50,13 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub stats
+### 📊 GitHub Analytics
 
-![Muhammad's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAhmad67889&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAhmad67889&theme=tokyonight)
-![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAhmad67889&theme=tokyonight)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAhmad67889&theme=tokyonight)
-
-## 🔥 Contribution streak
-
-![GitHub contribution streak](https://streak-stats.demolab.com?user=MuhammadAhmad67889&theme=tokyonight&v=20261124)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MuhammadAhmad67889&show_icons=true&show=reviews&theme=tokyonight&hide_border=true&count_private=true&line_height=20&cache_seconds=1800" height="165" alt="Muhammad's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhammadAhmad67889&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadAhmad67889&theme=tokyonight&hide_border=true&timezone=Asia/Karachi&v=20261125" height="165" alt="Muhammad's GitHub Streak" />
+</div>
 
 ## 🐍 Contribution snake
 
