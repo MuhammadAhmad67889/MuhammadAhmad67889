@@ -57,7 +57,7 @@ I built it because I kept losing track of freelance work in spreadsheets. It sta
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=MuhammadAhmad67889&show_icons=true&show=reviews&theme=tokyonight&hide_border=true&count_private=true&line_height=20&cache_seconds=1800" height="165" alt="Muhammad's GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhammadAhmad67889&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" alt="Most Used Languages" />
-  <img src="https://streak-stats.demolab.com?user=MuhammadAhmad67889&theme=tokyonight&hide_border=true&timezone=Asia/Karachi&v=20261127" height="165" alt="Muhammad's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadAhmad67889&theme=tokyonight&hide_border=true&timezone=Asia/Karachi&v=20261128" height="165" alt="Muhammad's GitHub Streak" />
 </div>
 
 ## 🐍 Contribution snake
